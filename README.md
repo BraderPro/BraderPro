@@ -1,9 +1,14 @@
-## Hi there 👋
+## Hi there 👋 Welcome Brader 😎
+
+
+<img width="2250" height="4000" alt="Arnaf23 Sep 14_45_LMC 8 8 r1 Xiaomi 12 Lite (1)" src="https://github.com/user-attachments/assets/8d0e1a9f-88f3-42af-80f3-dcd5bb1b9329" />
 
 <!--
 **BraderPro/BraderPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- I'm still a beginner and still learning guys 🤣
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
